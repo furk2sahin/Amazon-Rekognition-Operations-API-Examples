@@ -1,7 +1,7 @@
 ## Request
 
-![Request](image/DetectTextRequest.png)
+![Request](image/DetectTextsRequest.png)
 
 ## Response
 
-![Response](image/DetectTextResponse.png)
+![Response](image/DetectTextsResponse.png)
