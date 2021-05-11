@@ -4,4 +4,4 @@
 
 ## Response
 
-![Response](image/DetectLabeLsResponse.png)
+![Response](image/DetectLabelsResponse.png)
