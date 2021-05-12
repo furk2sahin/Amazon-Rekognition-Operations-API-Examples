@@ -1,6 +1,10 @@
 # Amazon-Rekognition-Operations-API-Examples
 This repository contains Amazon Rekognition Image and Stored Video operations API examples.
 
+## All Operations Together
+
+-  [AllOperations](Amazon-Rekognition-Examples/AllOperations)
+
 ## Image Operations
 
 -  [DetectLabels](Amazon-Rekognition-Examples/DetectLabels)
