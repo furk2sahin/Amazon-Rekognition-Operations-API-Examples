@@ -47,3 +47,7 @@ This repository contains Amazon Rekognition Image and Stored Video operations AP
 -  [TagResource](Amazon-Rekognition-Examples/TagResource)
 -  [UntagResource](Amazon-Rekognition-Examples/UntagResource)
 -  [ListTagsForResource](Amazon-Rekognition-Examples/ListTagsForResource)
+
+## Amazon S3 Operations
+
+- [Amazon S3 Operations](Amazon-Rekognition-Examples/Amazon%20S3%20operations)
